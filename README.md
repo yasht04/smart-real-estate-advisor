@@ -1,6 +1,6 @@
 # 🏠 Smart Real Estate Investment Advisor
 
-A Machine Learning-powered web application that helps users estimate property prices and analyze real estate trends. This project combines **Data Analysis (EDA)** to understand market history and **Machine Learning** to predict future property values.
+A Machine Learning-powered web application that helps users estimate property prices and analyze real estate trends. This project combines **Data Analysis** to understand market history and **Machine Learning** to predict future property values.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B)
